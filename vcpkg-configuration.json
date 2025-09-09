@@ -10,7 +10,7 @@
       "kind": "git",
       "repository": "https://github.com/greenmatthew/mgreen-vcpkg-registry",
       "baseline": "HEAD",
-      "packages": []
+      "packages": ["velecs-math"]
     }
   ]
 }
